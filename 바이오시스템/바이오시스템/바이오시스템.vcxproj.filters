@@ -18,8 +18,5 @@
     <ClCompile Include="바이오시스템.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="음악재생.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
