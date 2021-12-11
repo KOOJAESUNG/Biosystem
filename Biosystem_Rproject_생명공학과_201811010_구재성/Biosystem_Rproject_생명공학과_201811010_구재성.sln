@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Biosystem_Rproject_생명공학과_201811010_구재성", "Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성.vcxproj", "{99C7D1AA-AA2B-474B-A07A-D7037944512D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C7D1AA-AA2B-474B-A07A-D7037944512D}.Debug|x64.ActiveCfg = Debug|x64
+		{99C7D1AA-AA2B-474B-A07A-D7037944512D}.Debug|x64.Build.0 = Debug|x64
+		{99C7D1AA-AA2B-474B-A07A-D7037944512D}.Debug|x86.ActiveCfg = Debug|Win32
+		{99C7D1AA-AA2B-474B-A07A-D7037944512D}.Debug|x86.Build.0 = Debug|Win32
+		{99C7D1AA-AA2B-474B-A07A-D7037944512D}.Release|x64.ActiveCfg = Release|x64
+		{99C7D1AA-AA2B-474B-A07A-D7037944512D}.Release|x64.Build.0 = Release|x64
+		{99C7D1AA-AA2B-474B-A07A-D7037944512D}.Release|x86.ActiveCfg = Release|Win32
+		{99C7D1AA-AA2B-474B-A07A-D7037944512D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D38C5831-9D2C-4DDF-A76F-8FEC792BB52A}
+	EndGlobalSection
+EndGlobal

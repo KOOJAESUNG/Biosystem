@@ -1,0 +1,12 @@
+﻿  Biosystem_Rproject_생명공학과_201811010_구재성.c
+C:\Users\PC\Desktop\Biosystem\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성.c(22,14): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PC\Desktop\Biosystem\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성.c(26,20): warning C4133: '함수': 'char [5]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\PC\Desktop\Biosystem\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성.c(29,4): warning C4033: 'music_1'은(는) 값을 반환해야 합니다.
+C:\Users\PC\Desktop\Biosystem\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성.c(44,20): warning C4133: '함수': 'char [5]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\PC\Desktop\Biosystem\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성.c(47,4): warning C4033: 'music_2'은(는) 값을 반환해야 합니다.
+C:\Users\PC\Desktop\Biosystem\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성.c(62,20): warning C4133: '함수': 'char [5]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\PC\Desktop\Biosystem\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성.c(65,4): warning C4033: 'music_3'은(는) 값을 반환해야 합니다.
+C:\Users\PC\Desktop\Biosystem\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성.c(32): warning C4716: 'music_1': 값을 반환해야 합니다.
+C:\Users\PC\Desktop\Biosystem\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성.c(50): warning C4716: 'music_2': 값을 반환해야 합니다.
+C:\Users\PC\Desktop\Biosystem\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성\Biosystem_Rproject_생명공학과_201811010_구재성.c(68): warning C4716: 'music_3': 값을 반환해야 합니다.
+  Biosystem_Rproject_생명공학과_201811010_구재성.vcxproj -> C:\Users\PC\Desktop\Biosystem\Biosystem_Rproject_생명공학과_201811010_구재성\Debug\Biosystem_Rproject_생명공학과_201811010_구재성.exe
